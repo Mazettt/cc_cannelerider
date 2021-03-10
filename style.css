@@ -9,6 +9,7 @@ body{
 }
 
 nav{
+    font-size: 30px;
     position: relative;
     top: 0px; left: -10px;
     /* color: green; */
@@ -16,5 +17,13 @@ nav{
 
 main{
     position: relative;
-    top: -55px; left: 150px;
+    top: -85px; left: 200px;
+}
+
+p{
+    width: 1000px;
+}
+
+li{
+    list-style-type: none;
 }
